@@ -25,7 +25,7 @@ In the pursuit of balancing the privacy of data with the computational demands o
 Clone and set up the FlashDP environment with the following commands:
 
 ```shell
-cd flash_dp
+cd FlashDP4Review
 conda env create -f env.yml # Optional: Execute only if you wish to create a new Conda environment.
 conda activate flashdp      # Optional: Run if the above command is executed.
 bash install.sh
